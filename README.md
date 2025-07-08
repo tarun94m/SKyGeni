@@ -19,8 +19,8 @@ Built with:
 > Add a screenshot of your running dashboard here
 
 ```
-📍 Screenshot Pla![Uploading Screenshot (29).png…]()
-ceholder
+![Screenshot ](https://github.com/user-attachments/assets/dfca34a9-ce3a-4bfd-ac5a-b542e5230889)
+
 ```
 
 ---
