@@ -29,8 +29,7 @@ Built with:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sales-dashboard.git
-cd sales-dashboard
+git clone https://github.com/tarun94m/SKyGeni.git
 ```
 
 ### 2. Setup Backend (Node.js)
@@ -53,7 +52,7 @@ npx ts-node server.ts
 ```bash
 cd frontend
 npm install
-npm start
+npm run dev
 ```
 
 - The frontend will launch at: `http://localhost:3000`
@@ -103,23 +102,4 @@ frontend/
 - d3
 - axios
 
----
 
-## ✅ To Do (Optional Enhancements)
-
-- [ ] Export charts to PNG/SVG
-- [ ] Add legends and tooltips
-- [ ] Add authentication for admin view
-- [ ] Deploy to Vercel / Render
-
----
-
-## 👤 Author
-
-- GitHub: [your-username](https://github.com/your-username)
-
----
-
-## 📄 License
-
-MIT License
