@@ -19,7 +19,8 @@ Built with:
 > Add a screenshot of your running dashboard here
 
 ```
-📍 Screenshot Placeholder
+📍 Screenshot Pla![Uploading Screenshot (29).png…]()
+ceholder
 ```
 
 ---
